@@ -1,1 +1,2 @@
 Hi! I'm practising git today!
+1:17 AM 2/15/2022 - Made first modification
